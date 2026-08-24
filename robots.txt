@@ -1,6 +1,0 @@
-User-agent: *
-Disallow: /admin/
-Disallow: /config/
-Disallow: /privado/
-
-Sitemap: https://dtecnologiaymas-cpu.github.io/Vero/sitemap.xml
